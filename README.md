@@ -1,2 +1,3 @@
 # Assignment1-arpitha
-simple java code
+Assignment ques 3
+java code to calculate simple interest
