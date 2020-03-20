@@ -1,3 +1,5 @@
+//Challenge 16:A program to find duplicate characters in a string.
+
 package com.tgt.igniteplus;
 
 import java.util.Scanner;
